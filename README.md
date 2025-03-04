@@ -228,3 +228,23 @@ DELIMITER ;
 
 This project demonstrates database management skills, including data retrieval, aggregation, and automation using SQL stored procedures. It provides a solid foundation for managing a Library Management System efficiently.
 
+## **How to Use This Project**
+
+1. **Clone the Repository**: If this is on GitHub, clone or download the SQL file.
+2. **Set Up the Database**: Run the database setup and table creation queries.
+3. **Import Data**: Load your retail sales dataset into the `RETAIL_SALES` table.
+4. **Run Queries**: Use the provided SQL queries to analyze sales performance.
+
+---
+
+## **Author & Portfolio**
+
+This project is part of my portfolio to demonstrate SQL proficiency for data analysis roles. If you have questions or feedback, feel free to connect with me!
+
+### 📌 Stay Connected:
+- **LinkedIn**: [www.linkedin.com/in/joshua-n-a28005216](#)
+- **GitHub**: [https://github.com/AlmigthyPushCode](#)
+- **Email**: [joshuajos999@gmail.com](#)
+
+🚀 **Thank you for exploring my SQL project!** 🚀
+
